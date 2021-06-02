@@ -9,6 +9,11 @@ React Leaflet - For Map\
 # `LETS START`
 In the project directory, you can run:
 
+### `npx create-react-app <your project name> `
+this will create the structure for your project. \
+
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
