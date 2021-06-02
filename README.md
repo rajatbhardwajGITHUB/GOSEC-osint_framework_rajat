@@ -29,3 +29,9 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+
+# `SCREENSHOTS`
+[Kool Store Free Website Template - Free-CSS.com.zip](https://github.com/rajatbhardwajGITHUB/covid19-tracker-rajat/files/6585457/Kool.Store.Free.Website.Template.-.Free-CSS.com.zip)
+![Screenshot from 2021-06-02 20-27-13](https://user-images.githubusercontent.com/66481308/120503292-2c8c5280-c391-11eb-9a2c-921cd3130622.jpg)
+![two](https://user-images.githubusercontent.com/66481308/120503298-2eeeac80-c391-11eb-922f-de37f6562065.jpg)
